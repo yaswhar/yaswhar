@@ -29,7 +29,7 @@ That early spark of enthusiasm set me on the path I remain on today. My passion 
 - Experience with Arduino, Rasberry Pi, and Pixhawk
 ### Projects
 Some of my key projects so far:
-
+[![Yashar Personal](https://github-readme-stats.vercel.app/api/pin?username=yaswhar&repo=yaswhar&theme=github_dark)](https://github.com/yaswhar/yaswhar)
 <!--
 **yaswhar/yaswhar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -45,5 +45,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <img src="https://github-readme-stats.vercel.app/api?username=yaswhar&show_icons=true&hide_border=true&count_private=true&theme=github_dark&icon_color=fad000" alt="Yashar's GitHub Stats">
-
-[![Yashar Personal](https://github-readme-stats.vercel.app/api/pin?username=yaswhar&repo=yaswhar&theme=github_dark)](https://github.com/yaswhar/yaswhar)

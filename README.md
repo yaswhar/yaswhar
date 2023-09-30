@@ -2,7 +2,7 @@
 I'm Yashar Zafari, a Robotics Student majoring in Mechanical Engineering at [Sharif University of Technology](https://en.sharif.edu/), interested in the fields of Autonomous Robots, Control, Swarm Robotics, Drones, and CNC Machining.
 <br />
 <a href="https://www.linkedin.com/in/zafariyashar">
-  <img align="left" alt="Yashar's LinkedIN" width="30" height="30" src="https://img.icons8.com/fluency/48/linkedin.png"/>
+  <img align="left" alt="Yashar's LinkedIN" width="30" height="30" target="_blank" src="https://img.icons8.com/fluency/48/linkedin.png"/>
 </a>
 <br />
 ### Me and Robotics

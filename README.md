@@ -1,10 +1,10 @@
 ## Hi there, it's Yashar! 👋
 I'm Yashar Zafari, a Robotics Student majoring in Mechanical Engineering at [Sharif University of Technology](https://en.sharif.edu/), interested in the fields of Autonomous Robots, Control, Swarm Robotics, Drones, and CNC Machining.
-
+<br />
 <a href="https://www.linkedin.com/in/zafariyashar">
-  <img align="left" alt="Yashar's LinkdeIN" width="22px" src="https://icons8.com/icon/xuvGCOXi8Wyg/linkedin" />
+  <img align="left" alt="Yashar's LinkedIN" width="30" height="30" src="https://img.icons8.com/fluency/48/linkedin.png"/>
 </a>
-
+<br />
 ### Me and Robotics
 “A man’s mind stretched by new ideas may never return to its original dimensions.” As a child, my mind was stretched by the fascinating world of robotics. I regularly watched cartoons with robot characters and sneaked into my father's room to skim through advanced Mechatronics and Robotics books. While I couldn't comprehend the academic details at the time, I was captivated by the sense of wonder and possibility.
 

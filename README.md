@@ -30,5 +30,5 @@ That early spark of enthusiasm set me on the path I remain on today. My passion 
 ### :pushpin:Projects
 Some of my key projects so far:
 <br />
-[![Yashar Personal](https://github-readme-stats.vercel.app/api/pin?username=yaswhar&repo=yaswhar&theme=github_dark)](https://github.com/yaswhar/yaswhar)
+[![Olfactory Biomarker for Alzheimer's Disease with EEG signal processing.](https://github-readme-stats.vercel.app/api/pin?username=yaswhar&repo=eeg-Olfactory-Biomarker&theme=github_dark)](https://github.com/yaswhar/eeg-Olfactory-Biomarker)
 <img src="https://github-readme-stats.vercel.app/api?username=yaswhar&show_icons=true&hide_border=true&count_private=true&theme=github_dark&icon_color=fad000" alt="Yashar's GitHub Stats">

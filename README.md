@@ -30,5 +30,9 @@ That early spark of enthusiasm set me on the path I remain on today. My passion 
 ### :pushpin:Projects
 Some of my key projects so far:
 <br />
+[![Quad Copter Model and Control.](https://github-readme-stats.vercel.app/api/pin?username=yaswhar&repo=quadcopter-model-control&theme=github_dark)](https://github.com/yaswhar/quadcopter-model-control)
 [![Olfactory Biomarker for Alzheimer's Disease with EEG signal processing.](https://github-readme-stats.vercel.app/api/pin?username=yaswhar&repo=eeg-Olfactory-Biomarker&theme=github_dark)](https://github.com/yaswhar/eeg-Olfactory-Biomarker)
+<br />
+[![Ball & Beam Control](https://github-readme-stats.vercel.app/api/pin?username=yaswhar&repo=Ball-Beam-Control&theme=github_dark)](https://github.com/yaswhar/Ball-Beam-Control)
+<br />
 <img src="https://github-readme-stats.vercel.app/api?username=yaswhar&show_icons=true&hide_border=true&count_private=true&theme=github_dark&icon_color=fad000" alt="Yashar's GitHub Stats">

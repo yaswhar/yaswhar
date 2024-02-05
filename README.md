@@ -34,5 +34,9 @@ Some of my key projects so far:
 [![Olfactory Biomarker for Alzheimer's Disease with EEG signal processing.](https://github-readme-stats.vercel.app/api/pin?username=yaswhar&repo=eeg-Olfactory-Biomarker&theme=github_dark)](https://github.com/yaswhar/eeg-Olfactory-Biomarker)
 <br />
 [![Ball & Beam Control](https://github-readme-stats.vercel.app/api/pin?username=yaswhar&repo=Ball-Beam-Control&theme=github_dark)](https://github.com/yaswhar/Ball-Beam-Control)
+[![Walk-Run Hat](https://github-readme-stats.vercel.app/api/pin?username=yaswhar&repo=WalkRunHat&theme=github_dark)](https://github.com/yaswhar/WalkRunHat)
+<br />
+[![Youla-Kucera Solver](https://github-readme-stats.vercel.app/api/pin?username=yaswhar&repo=Youla-Kucera&theme=github_dark)](https://github.com/yaswhar/Youla-Kucera)
+[![Simultaneous Stablizier](https://github-readme-stats.vercel.app/api/pin?username=yaswhar&repo=Stimul_IMC&theme=github_dark)](https://github.com/yaswhar/Stimul_IMC)
 <br />
 <img src="https://github-readme-stats.vercel.app/api?username=yaswhar&show_icons=true&hide_border=true&count_private=true&theme=github_dark&icon_color=fad000" alt="Yashar's GitHub Stats">

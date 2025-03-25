@@ -32,7 +32,7 @@ Some of my key projects so far:
 [![Simultaneous Stablizier](https://github-readme-stats.vercel.app/api/pin?username=yaswhar&repo=Stimul_IMC&theme=github_dark)](https://github.com/yaswhar/Stimul_IMC)
 <br />
 <img src="https://github-readme-stats.vercel.app/api?username=yaswhar&show_icons=true&hide_border=true&count_private=true&theme=github_dark&icon_color=fad000" alt="Yashar's GitHub Stats">
-![](https://raw.githubusercontent.com/yaswhar/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/yaswhar/github-stats/master/generated/overview.svg#gh-light-mode-only)
-![](https://raw.githubusercontent.com/yaswhar/github-stats/master/generated/languages.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/yaswhar/github-stats/master/generated/languages.svg#gh-light-mode-only)
+![](https://raw.githubusercontent.com/yaswhar/gitstats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/yaswhar/gitstats/master/generated/overview.svg#gh-light-mode-only)
+![](https://raw.githubusercontent.com/yaswhar/gitstats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/yaswhar/gitstats/master/generated/languages.svg#gh-light-mode-only)

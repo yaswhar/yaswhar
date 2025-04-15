@@ -18,5 +18,6 @@ I'm Yashar Zafari, a Robotics Student majoring in Mechanical Engineering at [Sha
   <img align="left" alt="Yashar's University Email" width="30" src="https://img.icons8.com/color/48/email.png"/>
 </a>
 <br />
+<br />
 ![](https://raw.githubusercontent.com/yaswhar/gitstats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/yaswhar/gitstats/master/generated/languages.svg#gh-dark-mode-only)
